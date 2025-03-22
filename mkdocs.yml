@@ -1,5 +1,0 @@
-site_name: My Calculator Project
-nav:
-  - Main: index.md
-  - Using: usage.md
-theme: mkdocs
