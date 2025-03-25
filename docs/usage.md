@@ -8,7 +8,7 @@
     ```bash
     git clone https://github.com/AS777-coder/laba3.git
 
-## Функции
+## Features
 - Addition (Сложение)
 - Multiplication (Умножение)
 - Factorial (Факториал)
